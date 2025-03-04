@@ -1,0 +1,486 @@
+ID,Nom_Scientifique,Catégorie,Code,Nombre,Description
+1,A73EGS-P,controlled,A73EGS-P_1,1,Description courte pour A73EGS-P.
+2,acanthaluteres_brownii,insitu,acanthaluteres_brownii_1,8,Acanthaluteres brownii est une espèce de poisson marin connue pour ses motifs colorés et sa nageoire dorsale épineuse.
+3,acanthaluteres_spilomelanurus,controlled,acanthaluteres_spilomelanurus_1,12,Acanthaluteres spilomelanurus se distingue par ses écailles noires et son comportement territorial.
+4,acanthaluteres_vittiger,insitu,acanthaluteres_vittiger_1,15,Acanthaluteres vittiger est connu pour ses bandes verticales distinctives et sa préférence pour les habitats rocheux.
+5,acanthistius_cinctus,insitu,acanthistius_cinctus_10,24,Acanthistius cinctus possède des nageoires épineuses et une coloration camouflée adaptée aux fonds marins.
+6,acanthopagrus_australis,uncontrolled,acanthopagrus_australis_1,34,Acanthopagrus australis, communément appelé le mérou australien, est apprécié pour sa robustesse et sa chair savoureuse.
+7,acanthopagrus_berda,controlled,acanthopagrus_berda_10,40,Acanthopagrus berda est un poisson de récif avec des motifs tachetés et une nageoire caudale caractéristique.
+8,acanthopagrus_latus,controlled,acanthopagrus_latus_1,51,Acanthopagrus latus est reconnu pour sa grande taille et sa capacité à s'adapter à divers habitats marins.
+9,achoerodus_gouldii,controlled,achoerodus_gouldii_1,56,Achoerodus gouldii, également connu sous le nom de labre de Gould, présente une coloration vive et une nageoire dorsale proéminente.
+10,achoerodus_viridis,insitu,achoerodus_viridis_1,60,Achoerodus viridis est un labre vert caractérisé par sa nageoire pectorale étendue et ses écailles brillantes.
+11,acreichthys_tomentosus,controlled,acreichthys_tomentosus_1,68,Acreichthys tomentosus est un poisson de fond avec une texture rugueuse et une coloration discrète adaptée à son environnement.
+12,aesopia_cornuta,sketches,aesopia_cornuta_1,74,Aesopia cornuta est une espèce de poisson connue pour ses cornes caractéristiques et sa morphologie unique.
+13,aethaloperca_rogaa,controlled,aethaloperca_rogaa_10,77,Aethaloperca rogaa est un poisson de récif avec des motifs rayés et une nageoire caudale forkée.
+14,alectis_ciliaris,insitu,alectis_ciliaris_1,88,Alectis ciliaris, également appelé le poisson-ange à lunettes, possède une silhouette élancée et des nageoires spectaculaires.
+15,alectis_indica,controlled,alectis_indica_1,92,Alectis indica est une espèce de poisson de haute mer appréciée pour sa rapidité et son agilité dans l'eau.
+16,alepes_kleinii,controlled,alepes_kleinii_1,96,Alepes kleinii est un poisson de taille moyenne avec une coloration argentée et des motifs noirs distinctifs.
+17,aluterus_monoceros,sketches,aluterus_monoceros_10,102,Aluterus monoceros est connu sous le nom de poisson-papillon, caractérisé par sa nageoire dorsale longue et ondulante.
+18,aluterus_scriptus,insitu,aluterus_scriptus_10,114,Aluterus scriptus possède une peau lisse et des motifs complexes qui facilitent sa dissimulation dans les récifs coralliens.
+19,amanses_scopas,controlled,amanses_scopas_10,132,Amanses scopas est un poisson de récif avec une coloration vive et des nageoires échancrées.
+20,anampses_caeruleopunctatus,controlled,anampses_caeruleopunctatus_10,151,Anampses caeruleopunctatus se distingue par ses points bleus éclatants et son comportement grégaire.
+21,anampses_elegans,insitu,anampses_elegans_1,164,Anampses elegans est un poisson élégant avec des lignes fluides et une nageoire dorsale gracieuse.
+22,anampses_femininus,uncontrolled,anampses_femininus_1,172,Anampses femininus présente une coloration douce et une nageoire anale prolongée.
+23,anampses_geographicus,controlled,anampses_geographicus_1,176,Anampses geographicus est connu pour sa distribution géographique étendue et ses motifs variés.
+24,anampses_lennardi,insitu,anampses_lennardi_1,185,Anampses lennardi est un poisson de récif avec des taches irrégulières et une nageoire caudale asymétrique.
+25,anampses_melanurus,insitu,anampses_melanurus_1,192,Anampses melanurus possède une queue noire distinctive et une nageoire pectorale développée.
+26,anampses_meleagrides,controlled,anampses_meleagrides_10,199,Anampses meleagrides est un poisson de récif coloré, apprécié pour ses motifs complexes et sa vivacité.
+27,anampses_neoguinaicus,controlled,anampses_neoguinaicus_1,213,Anampses neoguinaicus est reconnu pour sa taille modérée et sa résistance aux variations de l'environnement marin.
+28,anampses_twistii,controlled,anampses_twistii_10,219,Anampses twistii présente des motifs spiraux uniques et une nageoire dorsale épineuse.
+29,anodontostoma_chacunda,controlled,anodontostoma_chacunda_1,229,Anodontostoma chacunda est un poisson de fond avec une mâchoire robuste et une coloration adaptée au sable marin.
+30,anyperodon_leucogrammicus,controlled,anyperodon_leucogrammicus_10,236,Anyperodon leucogrammicus est caractérisé par ses bandes blanches distinctives et son corps allongé.
+31,aphareus_furca,insitu,aphareus_furca_10,251,Aphareus furca est un poisson pélagique connu pour sa fourche caudale en forme de fourche et sa nage rapide.
+32,aphareus_rutilans,sketches,aphareus_rutilans_10,270,Aphareus rutilans présente une coloration rougeâtre et une nageoire anale remarquable.
+33,aprion_virescens,controlled,aprion_virescens_1,284,Aprion virescens est un mérou vert avec une taille imposante et une présence dominante dans les récifs coralliens.
+34,argyrops_spinifer,sketches,argyrops_spinifer_10,290,Argyrops spinifer est un poisson de récif avec des épines dorsales proéminentes et une coloration argentée.
+35,aseraggodes_melanostictus,controlled,aseraggodes_melanostictus_1,300,Aseraggodes melanostictus se distingue par ses taches noires sur un corps pâle et ses nageoires élégantes.
+36,atractoscion_aequidens,insitu,atractoscion_aequidens_1,303,Atractoscion aequidens est un poisson pélagique apprécié pour sa chair tendre et sa nage rapide.
+37,atule_mate,controlled,atule_mate_1,308,Atule mate est un poisson de grande taille avec une morphologie robuste et une résistance aux conditions marines variées.
+38,auxis_rochei,sketches,auxis_rochei_1,314,Auxis rochei, également connu sous le nom de thon rouge, est célèbre pour ses migrations longues et sa vitesse impressionnante.
+39,auxis_thazard,sketches,auxis_thazard_1,320,Auxis thazard est un thon élégant avec une coloration bleue brillante et des nageoires puissantes.
+40,bathylagichthys_greyae,rubbish,bathylagichthys_greyae_1,328,Bathylagichthys greyae est une espèce abyssale peu connue, caractérisée par sa taille réduite et son habitat profond.
+41,beryx_decadactylus,controlled,beryx_decadactylus_1,331,Beryx decadactylus est un poisson de grande profondeur avec des écailles épaisses et une mâchoire puissante.
+42,bodianus_anthioides,controlled,bodianus_anthioides_10,337,Bodianus anthioides est un labre coloré, souvent observé dans les récifs coralliens où il joue un rôle écologique important.
+43,bodianus_axillaris,controlled,bodianus_axillaris_10,352,Bodianus axillaris présente une coloration vive et des motifs distinctifs le long de ses nageoires.
+44,bodianus_bilunulatus,insitu,bodianus_bilunulatus_10,367,Bodianus bilunulatus est un labre aux motifs lunaires uniques et une nageoire caudale élégante.
+45,bodianus_bimaculatus,insitu,bodianus_bimaculatus_10,384,Bodianus bimaculatus est reconnaissable par ses deux taches noires caractéristiques et sa nageoire pectorale développée.
+46,bodianus_diana,insitu,bodianus_diana_10,399,Bodianus diana est un labre gracieux avec une coloration rose et des nageoires délicates.
+47,bodianus_loxozonus,insitu,bodianus_loxozonus_10,416,Bodianus loxozonus possède une tête allongée et une coloration bleue éclatante, idéale pour les habitats coralliens.
+48,bodianus_mesothorax,insitu,bodianus_mesothorax_10,428,Bodianus mesothorax est un poisson de récif avec une nageoire dorsale pointue et une coloration argentée.
+49,bodianus_perditio,insitu,bodianus_perditio_1,444,Bodianus perditio est un labre discret avec une coloration sombre et une préférence pour les zones rocheuses.
+50,bodianus_unimaculatus,insitu,bodianus_unimaculatus_1,453,Bodianus unimaculatus est identifiable par sa tache unique sur la nageoire dorsale et son comportement territorial.
+51,bodianus_vulpinus,controlled,bodianus_vulpinus_1,456,Bodianus vulpinus est un labre aux couleurs vives et aux motifs complexes, souvent trouvé dans les récifs coralliens.
+52,bothus_mancus,insitu,bothus_mancus_10,462,Bothus mancus est un poisson plat avec une capacité de camouflage exceptionnelle sur les fonds sablonneux.
+53,bothus_myriaster,controlled,bothus_myriaster_1,474,Bothus myriaster se distingue par ses multiples rayures et sa nageoire caudale ondulante.
+54,bothus_pantherinus,controlled,bothus_pantherinus_10,480,Bothus pantherinus est connu pour ses motifs léopardés et sa vitesse de nage rapide.
+55,brachaluteres_jacksonianus,insitu,brachaluteres_jacksonianus_1,497,Brachaluteres jacksonianus est une espèce de poisson de récif avec une nageoire dorsale longue et flexible.
+56,brachirus_orientalis,controlled,brachirus_orientalis_1,504,Brachirus orientalis possède une tête aplatie et une coloration qui lui permet de se fondre dans son habitat marin.
+57,caesioperca_lepidopterus,insitu,caesioperca_lepidopterus_1,509,Caesioperca lepidopterus est un poisson élégant avec des nageoires pectorales ornées de motifs complexes.
+58,cantherhines_dumerilii,controlled,cantherhines_dumerilii_10,515,Cantherhines dumerilii est un poisson de récif caractérisé par ses longues barbillons et sa nageoire caudale effilée.
+59,cantherhines_fronticinctus,insitu,cantherhines_fronticinctus_10,536,Cantherhines fronticinctus présente une coloration distinctive avec des bandes latérales et une nageoire dorsale proéminente.
+60,cantherhines_pardalis,insitu,cantherhines_pardalis_10,549,Cantherhines pardalis est reconnu pour ses motifs tachetés et sa capacité à se déplacer rapidement parmi les coraux.
+61,cantheschenia_grandisquamis,insitu,cantheschenia_grandisquamis_1,573,Cantheschenia grandisquamis est un poisson de récif avec de grandes nageoires et une coloration vive.
+62,caprodon_longimanus,controlled,caprodon_longimanus_1,577,Caprodon longimanus est un poisson pélagique apprécié pour ses nageoires pectorales étendues et sa vitesse de nage.
+63,caprodon_schlegelii,controlled,caprodon_schlegelii_1,580,Caprodon schlegelii se distingue par sa silhouette élancée et ses écailles argentées.
+64,carangoides_caeruleopinnatus,insitu,carangoides_caeruleopinnatus_10,584,Carangoides caeruleopinnatus est un carangidé aux nageoires bleues brillantes et à la silhouette puissante.
+65,carangoides_chrysophrys,controlled,carangoides_chrysophrys_1,595,Carangoides chrysophrys est connu pour sa mâchoire dorée et sa nageoire caudale caractéristique.
+66,carangoides_equula,controlled,carangoides_equula_1,598,Carangoides equula est un poisson de récif avec une coloration argentée et une nageoire anale développée.
+67,carangoides_ferdau,controlled,carangoides_ferdau_1,603,Carangoides ferdau possède une nageoire dorsale longue et une silhouette aérodynamique adaptée à la nage rapide.
+68,carangoides_fulvoguttatus,controlled,carangoides_fulvoguttatus_10,612,Carangoides fulvoguttatus est reconnaissable par ses taches dorées sur un corps argenté et sa nageoire caudale fourchue.
+69,carangoides_hedlandensis,controlled,carangoides_hedlandensis_1,622,Carangoides hedlandensis est un carangidé robuste avec une nageoire pectorale large et une coloration vive.
+70,carangoides_malabaricus,controlled,carangoides_malabaricus_1,626,Carangoides malabaricus est connu pour sa mâchoire puissante et ses nageoires dorsales proéminentes.
+71,carangoides_orthogrammus,insitu,carangoides_orthogrammus_10,631,Carangoides orthogrammus présente une coloration bleue éclatante et une nageoire caudale effilée, idéale pour les habitats pélagiques.
+72,carangoides_plagiotaenia,controlled,carangoides_plagiotaenia_1,642,Carangoides plagiotaenia est un poisson rapide avec des motifs tachetés et une nageoire anale prolongée.
+73,caranx_ignobilis,controlled,caranx_ignobilis_10,651,Caranx ignobilis, également appelé le Carangue géante, est un poisson puissant connu pour sa taille impressionnante et sa force.
+74,caranx_lugubris,uncontrolled,caranx_lugubris_1,662,Caranx lugubris est un carangidé au comportement agressif et à la nage rapide, souvent trouvé dans les eaux côtières.
+75,caranx_melampygus,insitu,caranx_melampygus_10,670,Caranx melampygus présente une coloration sombre avec des reflets métalliques et une nageoire caudale puissante.
+76,caranx_sexfasciatus,controlled,caranx_sexfasciatus_10,696,Caranx sexfasciatus est un poisson rapide avec six bandes distinctes sur son corps et une nageoire dorsale épineuse.
+77,carcharhinus_albimarginatus,sketches,carcharhinus_albimarginatus_1,710,Carcharhinus albimarginatus est un requin de récif avec des marges blanches sur ses nageoires et une silhouette élancée.
+78,carcharhinus_amblyrhynchos,controlled,carcharhinus_amblyrhynchos_10,719,Carcharhinus amblyrhynchos est un requin méditerranéen avec une mâchoire large et une nageoire caudale asymétrique.
+79,carcharhinus_falciformis,uncontrolled,carcharhinus_falciformis_1,729,Carcharhinus falciformis, ou requin marteau, est reconnaissable à sa tête en forme de marteau unique et ses nageoires puissantes.
+80,carcharhinus_galapagensis,controlled,carcharhinus_galapagensis_1,735,Carcharhinus galapagensis est un requin endémique des Galápagos, connu pour sa résistance et son adaptation aux environnements variés.
+81,carcharhinus_limbatus,controlled,carcharhinus_limbatus_10,744,Carcharhinus limbatus est un requin de récif avec des motifs distinctifs sur ses nageoires et une nage rapide.
+82,carcharhinus_melanopterus,insitu,carcharhinus_melanopterus_10,754,Carcharhinus melanopterus présente des nageoires noires contrastant avec son corps gris argenté, idéal pour les habitats coralliens.
+83,carcharhinus_obscurus,insitu,carcharhinus_obscurus_1,765,Carcharhinus obscurus est un requin sombre avec une silhouette discrète, souvent observé dans les eaux profondes.
+84,carcharhinus_plumbeus,insitu,carcharhinus_plumbeus_1,772,Carcharhinus plumbeus est un requin robuste avec une coloration gris foncé et une nageoire caudale puissante.
+85,carcharhinus_sorrah,controlled,carcharhinus_sorrah_1,780,Carcharhinus sorrah est un requin de récif agile avec une nage rapide et une mâchoire puissante.
+86,centroberyx_affinis,controlled,centroberyx_affinis_1,784,Centroberyx affinis est un poisson de fond avec des écailles brillantes et une morphologie adaptée aux habitats sablonneux.
+87,centrogenys_vaigiensis,controlled,centrogenys_vaigiensis_1,789,Centrogenys vaigiensis est un poisson pélagique connu pour sa nage rapide et sa résistance aux courants marins.
+88,centroscymnus_coelolepis,uncontrolled,centroscymnus_coelolepis_1,793,Centroscymnus coelolepis est un requin profond avec une petite taille et des adaptations spécifiques aux environnements abyssaux.
+89,cephalopholis_argus,controlled,cephalopholis_argus_10,797,Cephalopholis argus, ou mérou à yeux multiples, est reconnu pour ses taches similaires à des yeux et sa taille imposante.
+90,cephalopholis_boenak,controlled,cephalopholis_boenak_10,810,Cephalopholis boenak est un mérou de récif avec une coloration variée et une nageoire caudale effilée.
+91,cephalopholis_cyanostigma,controlled,cephalopholis_cyanostigma_10,822,Cephalopholis cyanostigma présente des taches bleues distinctives et une nageoire dorsale bien développée.
+92,cephalopholis_formosa,controlled,cephalopholis_formosa_1,836,Cephalopholis formosa est un mérou élégant avec une silhouette gracieuse et des motifs colorés sur son corps.
+93,cephalopholis_igarashiensis,sketches,cephalopholis_igarashiensis_1,844,Cephalopholis igarashiensis est un mérou de petite taille avec des motifs tachetés et une nageoire caudale incurvée.
+94,cephalopholis_leopardus,controlled,cephalopholis_leopardus_10,849,Cephalopholis leopardus est un mérou tacheté, souvent observé dans les récifs coralliens où il chasse activement.
+95,cephalopholis_microprion,controlled,cephalopholis_microprion_1,863,Cephalopholis microprion est un mérou de petite taille avec une mâchoire fine et des nageoires dorsales proéminentes.
+96,cephalopholis_miniata,insitu,cephalopholis_miniata_10,872,Cephalopholis miniata est un mérou rouge vif avec une nageoire caudale en forme de faucille.
+97,cephalopholis_sexmaculata,controlled,cephalopholis_sexmaculata_10,886,Cephalopholis sexmaculata est un mérou caractérisé par ses six taches noires sur le corps et sa nage rapide.
+98,cephalopholis_sonnerati,controlled,cephalopholis_sonnerati_10,901,Cephalopholis sonnerati est un mérou de récif avec une coloration dorée et des nageoires robustes.
+99,cephalopholis_spiloparaea,controlled,cephalopholis_spiloparaea_10,919,Cephalopholis spiloparaea est un mérou aux motifs tachetés et à la nageoire caudale puissante, adapté aux habitats coralliens.
+100,chascanopsetta_lugubris,controlled,chascanopsetta_lugubris_1,930,Chascanopsetta lugubris est une plie de fond avec une morphologie aplatie et une coloration adaptée au sable marin.
+101,cheilinus_chlorourus,controlled,cheilinus_chlorourus_10,933,Cheilinus chlorourus, connu sous le nom de labre vert, est réputé pour sa couleur vibrante et sa nageoire caudale fourchue.
+102,cheilinus_fasciatus,controlled,cheilinus_fasciatus_1,954,Cheilinus fasciatus présente des bandes horizontales distinctes et une mâchoire puissante pour capturer ses proies.
+103,cheilinus_oxycephalus,controlled,cheilinus_oxycephalus_10,960,Cheilinus oxycephalus est un labre aux formes aérodynamiques et à la coloration variée, adapté aux récifs coralliens.
+104,cheilinus_trilobatus,controlled,cheilinus_trilobatus_10,974,Cheilinus trilobatus se distingue par ses trois lobes sur la nageoire caudale et sa coloration éclatante.
+105,cheilinus_undulatus,insitu,cheilinus_undulatus_1,985,Cheilinus undulatus est un labre ondulé avec une nageoire dorsale longue et des motifs tachetés uniques.
+106,cheilio_inermis,insitu,cheilio_inermis_10,992,Cheilio inermis est un poisson de récif sans épines dorsales, caractérisé par sa nageoire anale développée et sa coloration discrète.
+107,cheilodactylus_ephippium,controlled,cheilodactylus_ephippium_1,1009,Cheilodactylus ephippium est connu pour ses nageoires pectorales étendues et ses motifs en forme de selle.
+108,cheilodactylus_fuscus,insitu,cheilodactylus_fuscus_1,1013,Cheilodactylus fuscus présente une coloration sombre avec des motifs irréguliers, idéal pour les habitats rocheux.
+109,cheilodactylus_spectabilis,insitu,cheilodactylus_spectabilis_1,1019,Cheilodactylus spectabilis est un poisson de récif remarquable pour ses couleurs vives et ses nageoires ondulées.
+110,cheilodactylus_vestitus,controlled,cheilodactylus_vestitus_1,1024,Cheilodactylus vestitus est identifiable par ses marques distinctives sur les nageoires et son comportement territorial.
+111,chelidonichthys_kumu,insitu,chelidonichthys_kumu_1,1027,Chelidonichthys kumu, également connu sous le nom de poisson serpent, est reconnu pour son corps allongé et sa capacité à se camoufler dans les sédiments.
+112,chirocentrus_dorab,sketches,chirocentrus_dorab_1,1030,Chirocentrus dorab est un poisson de rivière avec une morphologie élancée et une nageoire caudale puissante.
+113,chirocentrus_nudus,controlled,chirocentrus_nudus_1,1036,Chirocentrus nudus est une espèce de poisson douce avec une peau lisse et une coloration argentée.
+114,choerodon_anchorago,sketches,choerodon_anchorago_10,1041,Choerodon anchorago est un labre aux motifs complexes et à la nageoire caudale en forme de faucille.
+115,choerodon_cauteroma,insitu,choerodon_cauteroma_1,1054,Choerodon cauteroma présente une coloration rouge intense et une nageoire dorsale proéminente, idéale pour les récifs coralliens.
+116,choerodon_cyanodus,controlled,choerodon_cyanodus_1,1058,Choerodon cyanodus est un labre bleu avec des marques distinctives sur les nageoires et une mâchoire robuste.
+117,choerodon_fasciatus,insitu,choerodon_fasciatus_10,1067,Choerodon fasciatus est reconnaissable par ses bandes horizontales et sa nageoire anale développée.
+118,choerodon_graphicus,sketches,choerodon_graphicus_1,1086,Choerodon graphicus est un labre orné de motifs graphiques uniques et une nageoire caudale effilée.
+119,choerodon_jordani,controlled,choerodon_jordani_1,1093,Choerodon jordani est un poisson de récif avec une coloration vive et une nageoire dorsale prolongée.
+120,choerodon_rubescens,insitu,choerodon_rubescens_1,1097,Choerodon rubescens présente une teinte rosée distinctive et des nageoires pectorales développées.
+121,choerodon_schoenleinii,insitu,choerodon_schoenleinii_10,1100,Choerodon schoenleinii est un labre élégant avec une coloration uniforme et une nageoire caudale bien formée.
+122,choerodon_venustus,controlled,choerodon_venustus_1,1111,Choerodon venustus est connu pour sa beauté esthétique et ses motifs colorés, faisant de lui un poisson populaire dans les aquariums marins.
+123,choerodon_vitta,controlled,choerodon_vitta_1,1118,Choerodon vitta présente une bande verticale distinctive le long de son corps et une nageoire caudale puissante.
+124,choerodon_zamboangae,controlled,choerodon_zamboangae_1,1121,Choerodon zamboangae est un labre de récif avec une coloration tachetée et une nageoire anale prolongée.
+125,chromileptes_altivelis,sketches,chromileptes_altivelis_10,1125,Chromileptes altivelis est un poisson de récif avec des nageoires hautes et une coloration vive adaptée à son habitat corallien.
+126,cirrhilabrus_bathyphilus,controlled,cirrhilabrus_bathyphilus_1,1137,Cirrhilabrus bathyphilus est un labre de fond avec des nageoires colorées et une capacité de camouflage exceptionnelle.
+127,cirrhilabrus_condei,controlled,cirrhilabrus_condei_1,1140,Cirrhilabrus condei présente des motifs rayés et une nageoire caudale en forme de lyre, idéale pour les habitats de récif.
+128,cirrhilabrus_cyanopleura,controlled,cirrhilabrus_cyanopleura_10,1144,Cirrhilabrus cyanopleura est un labre bleu avec des nageoires brillantes et une silhouette élégante.
+129,cirrhilabrus_exquisitus,controlled,cirrhilabrus_exquisitus_10,1162,Cirrhilabrus exquisitus est reconnu pour sa beauté esthétique et ses nageoires pectorales spectaculaires.
+130,cirrhilabrus_laboutei,controlled,cirrhilabrus_laboutei_1,1178,Cirrhilabrus laboutei est un labre de récif avec une coloration vive et des nageoires dorsales proéminentes.
+131,cirrhilabrus_punctatus,insitu,cirrhilabrus_punctatus_10,1184,Cirrhilabrus punctatus présente des taches noires sur un corps coloré, idéal pour les habitats coralliens.
+132,cirrhilabrus_scottorum,controlled,cirrhilabrus_scottorum_10,1205,Cirrhilabrus scottorum est un labre aux motifs complexes et à la nageoire caudale en forme de faucille.
+133,cirrhilabrus_temminckii,controlled,cirrhilabrus_temminckii_1,1220,Cirrhilabrus temminckii est un labre élégant avec une coloration vive et des nageoires ondulées adaptées à la nage rapide.
+134,coris_aygula,insitu,coris_aygula_10,1224,Coris aygula est un labre de récif avec des bandes colorées et une nageoire caudale bien développée.
+135,coris_batuensis,insitu,coris_batuensis_10,1235,Coris batuensis présente une coloration vive avec des motifs tachetés et une nageoire anale prolongée.
+136,coris_bulbifrons,insitu,coris_bulbifrons_1,1254,Coris bulbifrons est un labre aux nageoires bulbiformes et à la coloration éclatante, idéal pour les récifs coralliens.
+137,coris_caudimacula,insitu,coris_caudimacula_10,1259,Coris caudimacula est reconnaissable par ses marques en forme de points sur la nageoire caudale et sa coloration vive.
+138,coris_dorsomacula,controlled,coris_dorsomacula_10,1275,Coris dorsomacula présente des taches distinctives sur la nageoire dorsale et une morphologie adaptée aux habitats rocheux.
+139,coris_gaimard,controlled,coris_gaimard_1,1288,Coris gaimard est un labre robuste avec une coloration sombre et des nageoires puissantes pour la nage rapide.
+140,coris_picta,insitu,coris_picta_1,1295,Coris picta est un labre coloré avec des motifs artistiques sur son corps et une nageoire caudale élégante.
+141,coris_pictoides,controlled,coris_pictoides_1,1303,Coris pictoides est un labre de récif avec une coloration vive et des motifs en forme de peinture sur les nageoires.
+142,coris_sandeyeri,insitu,coris_sandeyeri_1,1307,Coris sandeyeri présente une coloration discrète et une morphologie adaptée au camouflage dans les sédiments marins.
+143,crenimugil_crenilabis,controlled,crenimugil_crenilabis_1,1316,Crenimugil crenilabis est un poisson de fond avec une bouche large et des nageoires pectorales développées pour la recherche de nourriture.
+144,CUNWCB-Y,insitu,CUNWCB-Y_1,1325,Description courte pour CUNWCB-Y.
+145,cymbacephalus_nematophthalmus,controlled,cymbacephalus_nematophthalmus_1,1334,Cymbacephalus nematophthalmus est un poisson de récif avec des yeux filiformes et une nageoire caudale effilée.
+146,cymolutes_praetextatus,controlled,cymolutes_praetextatus_1,1337,Cymolutes praetextatus est un poisson de récif robuste avec une coloration vive et des nageoires puissantes.
+147,cymolutes_torquatus,controlled,cymolutes_torquatus_1,1343,Cymolutes torquatus se distingue par sa bande thoracique en forme de collier et sa nageoire dorsale proéminente.
+148,cynoglossus_puncticeps,controlled,cynoglossus_puncticeps_1,1346,Cynoglossus puncticeps est un poisson plat avec une tête ponctuée de taches noires et une morphologie adaptée aux fonds sablonneux.
+149,cyttopsis_rosea,controlled,cyttopsis_rosea_1,1351,Cyttopsis rosea est un poisson de grande profondeur avec une coloration rose pâle et une silhouette élancée.
+150,dactylophora_nigricans,insitu,dactylophora_nigricans_1,1355,Dactylophora nigricans est un poisson unique avec des extensions digitales sur les nageoires et une coloration sombre adaptée aux habitats marins profonds.
+151,decapterus_macrosoma,controlled,decapterus_macrosoma_1,1362,Decapterus macrosoma est un poisson pélagique avec une grande mâchoire et une nage rapide, souvent utilisé dans les pêcheries commerciales.
+152,decapterus_russelli,controlled,decapterus_russelli_1,1365,Decapterus russelli se distingue par sa taille modérée et sa nageoire caudale forkée, adaptée aux eaux côtières.
+153,diproctacanthus_xanthurus,controlled,diproctacanthus_xanthurus_1,1370,Diproctacanthus xanthurus est un poisson de récif avec une nageoire caudale noire et une coloration vive.
+154,dotalabrus_aurantiacus,insitu,dotalabrus_aurantiacus_1,1374,Dotalabrus aurantiacus est un labre orange vif avec des nageoires développées et une silhouette élégante.
+155,elagatis_bipinnulata,insitu,elagatis_bipinnulata_10,1380,Elagatis bipinnulata est un poisson de haute mer avec des nageoires pectorales bifurquées et une coloration argentée.
+156,epibulus_insidiator,insitu,epibulus_insidiator_10,1396,Epibulus insidiator est un poisson de fond avec une bouche large et des nageoires puissantes pour fouiller le sable à la recherche de proies.
+157,epinephelus_areolatus,insitu,epinephelus_areolatus_10,1410,Epinephelus areolatus, également connu sous le nom de mérou à points, est un grand mérou de récif avec des taches noires distinctes et une nageoire caudale puissante.
+158,epinephelus_bleekeri,sketches,epinephelus_bleekeri_1,1425,Epinephelus bleekeri est un mérou élégant avec des motifs tachetés et une nageoire dorsale longue et épineuse.
+159,epinephelus_chlorostigma,controlled,epinephelus_chlorostigma_1,1431,Epinephelus chlorostigma se distingue par sa coloration verte et ses marques noires le long des nageoires.
+160,epinephelus_coeruleopunctatus,controlled,epinephelus_coeruleopunctatus_10,1440,Epinephelus coeruleopunctatus est un mérou bleu avec des points lumineux sur son corps et une nageoire caudale fourchue.
+161,epinephelus_coioides,controlled,epinephelus_coioides_10,1456,Epinephelus coioides, ou mérou commun, est connu pour sa résistance et sa capacité à s'adapter à divers environnements marins.
+162,epinephelus_corallicola,sketches,epinephelus_corallicola_10,1469,Epinephelus corallicola est un mérou de récif avec une coloration vive et une nageoire caudale en forme de faucille.
+163,epinephelus_cyanopodus,controlled,epinephelus_cyanopodus_10,1482,Epinephelus cyanopodus est un mérou bleu avec des nageoires ondulées et une mâchoire puissante adaptée à la chasse.
+164,epinephelus_epistictus,controlled,epinephelus_epistictus_1,1493,Epinephelus epistictus est un mérou de récif avec des marques distinctives sur la tête et une coloration vive.
+165,epinephelus_fasciatus,controlled,epinephelus_fasciatus_10,1499,Epinephelus fasciatus se distingue par ses bandes horizontales et sa nageoire dorsale épineuse.
+166,epinephelus_fuscoguttatus,insitu,epinephelus_fuscoguttatus_10,1511,Epinephelus fuscoguttatus est un mérou brunâtre avec des taches noires et une nage rapide adaptée aux environnements de haute mer.
+167,epinephelus_hexagonatus,controlled,epinephelus_hexagonatus_10,1522,Epinephelus hexagonatus est un mérou hexagonal avec des motifs tachetés et une nageoire caudale puissante.
+168,epinephelus_howlandi,controlled,epinephelus_howlandi_1,1532,Epinephelus howlandi est un mérou de récif avec une coloration bleue et des nageoires anales développées.
+169,epinephelus_lanceolatus,sketches,epinephelus_lanceolatus_1,1539,Epinephelus lanceolatus, ou mérou géant, est réputé pour sa taille impressionnante et sa présence dominante dans les récifs coralliens.
+170,epinephelus_latifasciatus,sketches,epinephelus_latifasciatus_1,1544,Epinephelus latifasciatus est un mérou de récif avec des bandes larges et une nageoire caudale fourchue.
+171,epinephelus_macrospilos,controlled,epinephelus_macrospilos_1,1551,Epinephelus macrospilos est un mérou de récif avec de grandes taches noires et une coloration vive.
+172,epinephelus_maculatus,controlled,epinephelus_maculatus_10,1560,Epinephelus maculatus se distingue par ses nombreuses taches noires sur un corps gris argenté et une nageoire dorsale épineuse.
+173,epinephelus_melanostigma,controlled,epinephelus_melanostigma_1,1573,Epinephelus melanostigma est un mérou noir aux marques distinctives et une nageoire caudale puissante.
+174,epinephelus_merra,insitu,epinephelus_merra_10,1578,Epinephelus merra est un mérou de récif avec une coloration rose et des nageoires anales développées, adapté aux habitats coralliens.
+175,epinephelus_morrhua,controlled,epinephelus_morrhua_1,1593,Epinephelus morrhua est un mérou robuste avec une nageoire dorsale épineuse et une capacité à résister aux conditions marines variées.
+176,epinephelus_multinotatus,controlled,epinephelus_multinotatus_1,1599,Epinephelus multinotatus se distingue par ses nombreuses marques sur la tête et sa nage rapide.
+177,epinephelus_ongus,controlled,epinephelus_ongus_10,1603,Epinephelus ongus est un mérou de récif avec une coloration vive et des nageoires caudales puissantes, adapté aux habitats coralliens.
+178,epinephelus_polyphekadion,controlled,epinephelus_polyphekadion_10,1619,Epinephelus polyphekadion présente une coloration bleue et des nageoires dorsales bien développées, idéal pour la chasse en récif.
+179,epinephelus_quoyanus,controlled,epinephelus_quoyanus_10,1630,Epinephelus quoyanus est un mérou élégant avec des marques distinctives et une nageoire caudale fourchue.
+180,epinephelus_radiatus,sketches,epinephelus_radiatus_1,1646,Epinephelus radiatus est un mérou de récif avec des motifs radiaux sur le corps et une nageoire dorsale épineuse.
+181,epinephelus_retouti,sketches,epinephelus_retouti_1,1650,Epinephelus retouti présente des marques géométriques uniques et une nageoire caudale effilée.
+182,epinephelus_rivulatus,controlled,epinephelus_rivulatus_10,1654,Epinephelus rivulatus est un mérou de récif robuste avec une coloration sombre et des nageoires puissantes.
+183,epinephelus_sexfasciatus,controlled,epinephelus_sexfasciatus_1,1668,Epinephelus sexfasciatus se distingue par ses six bandes noires sur le corps et sa nage rapide.
+184,epinephelus_spilotoceps,controlled,epinephelus_spilotoceps_1,1672,Epinephelus spilotoceps est un mérou de récif avec une tête marquée et une nageoire dorsale épineuse.
+185,epinephelus_tauvina,controlled,epinephelus_tauvina_10,1680,Epinephelus tauvina est un mérou de récif avec une coloration vive et des nageoires anales développées.
+186,epinephelus_undulatostriatus,uncontrolled,epinephelus_undulatostriatus_1,1693,Epinephelus undulatostriatus présente des ondulations sur les nageoires et une coloration adaptée aux habitats de récif.
+187,etelis_carbunculus,controlled,etelis_carbunculus_10,1698,Etelis carbunculus est un mérou de haute mer avec une coloration rougeâtre et une nage rapide adaptée aux environnements profonds.
+188,etelis_coruscans,controlled,etelis_coruscans_1,1711,Etelis coruscans est un mérou brillant avec une nageoire caudale fourchue et une coloration vive, idéal pour les pêcheries commerciales.
+189,eubalichthys_cyanoura,insitu,eubalichthys_cyanoura_1,1716,Eubalichthys cyanoura est un poisson de récif avec une queue bleue distinctive et une nage rapide adaptée aux habitats coralliens.
+190,eubalichthys_mosaicus,controlled,eubalichthys_mosaicus_1,1719,Eubalichthys mosaicus est connu pour ses motifs mosaïques sur le corps et sa nageoire dorsale épineuse.
+191,eupetrichthys_angustipes,controlled,eupetrichthys_angustipes_1,1727,Eupetrichthys angustipes est un poisson de fond avec des pattes étroites et une coloration adaptée aux sédiments marins.
+192,euthynnus_affinis,controlled,euthynnus_affinis_1,1731,Euthynnus affinis, ou thon affinis, est un thon rapide avec une coloration bleuâtre et une nageoire caudale en forme de faucille.
+193,evistias_acutirostris,controlled,evistias_acutirostris_1,1739,Evistias acutirostris est un poisson de récif avec un museau pointu et une nage rapide adaptée aux environnements coralliens.
+194,gempylus_serpens,controlled,gempylus_serpens_1,1744,Gempylus serpens, également connu sous le nom de poisson-serpent, est un poisson pélagique avec une morphologie allongée et une nageoire caudale puissante.
+195,gnathanodon_speciosus,insitu,gnathanodon_speciosus_10,1748,Gnathanodon speciosus est un poisson de récif coloré avec des nageoires ondulées et une capacité de camouflage efficace.
+196,gnathodentex_aureolineatus,controlled,gnathodentex_aureolineatus_10,1763,Gnathodentex aureolineatus est un labre doré avec des motifs brillants et une nageoire caudale élégante.
+197,gracila_albomarginata,controlled,gracila_albomarginata_10,1774,Gracila albomarginata est un poisson de récif avec des marges blanches sur les nageoires et une coloration vive.
+198,gymnocranius_audleyi,sketches,gymnocranius_audleyi_1,1789,Gymnocranius audleyi est un mérou de récif avec une silhouette élancée et une nageoire caudale puissante.
+199,gymnocranius_euanus,controlled,gymnocranius_euanus_1,1795,Gymnocranius euanus présente une coloration argentée et des nageoires dorsales bien développées, adaptées aux habitats coralliens.
+200,gymnocranius_grandoculis,insitu,gymnocranius_grandoculis_1,1798,Gymnocranius grandoculis est un mérou de grande taille avec une vue exceptionnelle et une nage rapide adaptée aux environnements marins.
+201,gymnocranius_microdon,controlled,gymnocranius_microdon_1,1805,Gymnocranius microdon est un mérou de récif avec une mâchoire fine et des nageoires caudales puissantes, idéal pour la chasse.
+202,gymnosarda_unicolor,insitu,gymnosarda_unicolor_1,1808,Gymnosarda unicolor, ou thon argenté, est un poisson pélagique connu pour sa coloration uniforme et sa nage rapide.
+203,halichoeres_argus,controlled,halichoeres_argus_10,1814,Halichoeres argus est un labre aux taches semblables à des yeux, souvent observé dans les récifs coralliens où il joue un rôle écologique important.
+204,halichoeres_biocellatus,controlled,halichoeres_biocellatus_10,1826,Halichoeres biocellatus présente des marques en forme de cellules sur les nageoires et une coloration vive adaptée aux habitats coralliens.
+205,halichoeres_chloropterus,insitu,halichoeres_chloropterus_10,1837,Halichoeres chloropterus est un labre vert avec des nageoires pectorales développées et une capacité de camouflage efficace.
+206,halichoeres_chrysus,insitu,halichoeres_chrysus_1,1849,Halichoeres chrysus est un poisson de récif aux reflets dorés et une nageoire caudale en forme de lyre.
+207,halichoeres_hartzfeldii,controlled,halichoeres_hartzfeldii_10,1857,Halichoeres hartzfeldii est un labre robuste avec des nageoires dorsales épineuses et une coloration bleue brillante.
+208,halichoeres_hortulanus,controlled,halichoeres_hortulanus_10,1869,Halichoeres hortulanus présente une coloration vive et des motifs distinctifs sur les nageoires, idéal pour les récifs coralliens.
+209,halichoeres_leucurus,controlled,halichoeres_leucurus_1,1888,Halichoeres leucurus est un labre blanc avec des nageoires pectorales larges et une silhouette élancée.
+210,halichoeres_margaritaceus,controlled,halichoeres_margaritaceus_10,1892,Halichoeres margaritaceus est un labre aux couleurs perlières et une nageoire caudale effilée, adapté aux habitats coralliens.
+211,halichoeres_marginatus,insitu,halichoeres_marginatus_10,1903,Halichoeres marginatus présente des marges colorées sur les nageoires et une nage rapide adaptée aux environnements de récif.
+212,halichoeres_melanochir,controlled,halichoeres_melanochir_10,1920,Halichoeres melanochir est un labre avec des nageoires noires distinctives et une coloration vive, idéal pour les récifs coralliens.
+213,halichoeres_melanurus,insitu,halichoeres_melanurus_10,1934,Halichoeres melanurus présente une queue noire distinctive et une nageoire pectorale développée, adaptée aux habitats rocheux.
+214,halichoeres_melasmapomus,insitu,halichoeres_melasmapomus_1,1957,Halichoeres melasmapomus est un labre coloré avec des motifs en forme de taches et une nageoire dorsale épineuse.
+215,halichoeres_miniatus,controlled,halichoeres_miniatus_1,1964,Halichoeres miniatus est un petit labre avec une coloration vive et une nage rapide, idéal pour les récifs coralliens.
+216,halichoeres_nebulosus,insitu,halichoeres_nebulosus_1,1969,Halichoeres nebulosus présente une coloration brumeuse avec des motifs irréguliers sur le corps et les nageoires.
+217,halichoeres_nigrescens,controlled,halichoeres_nigrescens_10,1977,Halichoeres nigrescens est un labre sombre avec une nageoire caudale puissante et une capacité de camouflage efficace.
+218,halichoeres_scapularis,sketches,halichoeres_scapularis_10,1996,Halichoeres scapularis est un labre avec une scapulaire distincte et une coloration vive, adapté aux habitats de récif.
+219,halichoeres_trimaculatus,insitu,halichoeres_trimaculatus_10,2014,Halichoeres trimaculatus se distingue par ses trois taches noires sur le corps et une nageoire caudale fourchue.
+220,harriotta_raleighana,controlled,harriotta_raleighana_1,2027,Harriotta raleighana est une espèce de requin plongeur avec une morphologie aplatie et des nageoires pectorales développées.
+221,hemigymnus_fasciatus,uncontrolled,hemigymnus_fasciatus_10,2031,Hemigymnus fasciatus est un labre avec des bandes horizontales distinctes et une nageoire caudale puissante.
+222,hemigymnus_melapterus,sketches,hemigymnus_melapterus_10,2052,Hemigymnus melapterus présente une coloration rose avec des motifs noirs sur les nageoires et une silhouette élancée.
+223,hemiramphus_far,controlled,hemiramphus_far_1,2062,Hemiramphus far est un poisson billard caractérisé par son museau allongé et sa nage rapide dans les eaux côtières.
+224,herklotsichthys_quadrimaculatus,controlled,herklotsichthys_quadrimaculatus_1,2067,Herklotsichthys quadrimaculatus est un poisson de récif avec quatre taches noires distinctives sur le corps et une nageoire caudale effilée.
+225,hologymnosus_annulatus,insitu,hologymnosus_annulatus_10,2073,Hologymnosus annulatus est un labre avec des anneaux colorés sur les nageoires et une capacité de camouflage efficace.
+226,hologymnosus_doliatus,insitu,hologymnosus_doliatus_10,2089,Hologymnosus doliatus présente une coloration vive avec des motifs en forme de losange et une nageoire dorsale proéminente.
+227,hyporhamphus_affinis,controlled,hyporhamphus_affinis_1,2100,Hyporhamphus affinis est un poisson billard avec une mâchoire inférieure allongée et une nage rapide adaptée aux eaux pélagiques.
+228,hyporhamphus_dussumieri,controlled,hyporhamphus_dussumieri_1,2103,Hyporhamphus dussumieri se distingue par sa mâchoire inférieure fine et sa nageoire caudale en forme de lyre.
+229,inegocia_japonica,sketches,inegocia_japonica_1,2110,Inegocia japonica est un poisson de récif avec des motifs tachetés et une nageoire caudale puissante, adapté aux habitats coralliens.
+230,Istiophorus_platypterus,controlled,Istiophorus_platypterus_1,2114,Istiophorus platypterus, ou voilier, est un poisson pélagique connu pour sa voile dorsale distinctive et sa nage rapide.
+231,johnius_borneensis,controlled,johnius_borneensis_1,2120,Johnius borneensis est un poisson de récif avec une coloration vive et une nageoire caudale fourchue, idéal pour les habitats coralliens.
+232,katsuwonus_pelamis,controlled,katsuwonus_pelamis_1,2126,Katsuwonus pelamis, également connu sous le nom de thon à aile courte, est un thon rapide avec une coloration bleu-vert et une nageoire caudale en forme de faucille.
+233,labrichthys_unilineatus,insitu,labrichthys_unilineatus_10,2134,Labrichthys unilineatus est un labre avec une ligne blanche distincte le long du corps et une nage rapide adaptée aux habitats coralliens.
+234,labroides_bicolor,controlled,labroides_bicolor_1,2144,Labroides bicolor est un labre clown avec une coloration bicolore vive et une nageoire anale développée.
+235,labroides_dimidiatus,controlled,labroides_dimidiatus_10,2153,Labroides dimidiatus se distingue par sa moitié blanche et sa moitié noire, idéale pour les interactions symbiotiques avec les anémones.
+236,labroides_pectoralis,controlled,labroides_pectoralis_1,2171,Labroides pectoralis présente des nageoires pectorales étendues et une coloration vive, adapté aux récifs coralliens.
+237,labropsis_australis,controlled,labropsis_australis_1,2175,Labropsis australis est un poisson de récif avec une nageoire dorsale longue et une coloration bleue éclatante.
+238,labropsis_manabei,controlled,labropsis_manabei_1,2184,Labropsis manabei présente une coloration violette et des nageoires anales développées, adapté aux habitats coralliens.
+239,labropsis_xanthonota,controlled,labropsis_xanthonota_1,2192,Labropsis xanthonota est un poisson de récif avec une tête jaune brillante et une nageoire caudale puissante.
+240,latridopsis_forsteri,sketches,latridopsis_forsteri_1,2195,Latridopsis forsteri est un labre avec une coloration vive et des nageoires pectorales développées, idéal pour les récifs coralliens.
+241,lepidocybium_flavobrunneum,uncontrolled,lepidocybium_flavobrunneum_1,2199,Lepidocybium flavobrunneum est un poisson de haute mer avec une coloration dorée et une nage rapide adaptée aux eaux pélagiques.
+242,leptojulis_cyanopleura,controlled,leptojulis_cyanopleura_10,2203,Leptojulis cyanopleura est un labre bleu avec des nageoires pectorales étendues et une nage rapide adaptée aux récifs coralliens.
+243,lethrinus_amboinensis,controlled,lethrinus_amboinensis_1,2223,Lethrinus amboinensis est un labre robuste avec une coloration orange vif et une nageoire caudale puissante.
+244,lethrinus_atkinsoni,controlled,lethrinus_atkinsoni_1,2231,Lethrinus atkinsoni présente une coloration rougeâtre et des nageoires dorsales épineuses, adapté aux habitats de récif.
+245,lethrinus_erythracanthus,insitu,lethrinus_erythracanthus_1,2239,Lethrinus erythracanthus est un labre avec une grande nageoire dorsale rouge et une coloration vive adaptée aux récifs coralliens.
+246,lethrinus_genivittatus,uncontrolled,lethrinus_genivittatus_1,2247,Lethrinus genivittatus est un labre avec une ligne génivienne noire distincte et une nage rapide adaptée aux habitats coralliens.
+247,lethrinus_harak,controlled,lethrinus_harak_10,2251,Lethrinus harak est un poisson de récif avec une coloration vive et une nageoire caudale puissante, idéal pour les pêcheries locales.
+248,lethrinus_lentjan,controlled,lethrinus_lentjan_10,2263,Lethrinus lentjan est un labre rouge avec une nage rapide et une capacité à s'adapter à divers habitats marins.
+249,lethrinus_microdon,insitu,lethrinus_microdon_10,2273,Lethrinus microdon présente une mâchoire fine et une nage rapide adaptée aux récifs coralliens.
+250,lethrinus_miniatus,sketches,lethrinus_miniatus_10,2288,Lethrinus miniatus est un petit labre avec une coloration vive et une nageoire caudale en forme de lyre, idéal pour les récifs coralliens.
+251,lethrinus_nebulosus,insitu,lethrinus_nebulosus_10,2301,Lethrinus nebulosus est un labre avec une apparence brumeuse et une nage rapide adaptée aux habitats coralliens.
+252,lethrinus_obsoletus,controlled,lethrinus_obsoletus_10,2324,Lethrinus obsoletus présente une coloration sombre avec des nageoires puissantes, idéal pour les pêcheries commerciales.
+253,lethrinus_olivaceus,insitu,lethrinus_olivaceus_10,2339,Lethrinus olivaceus est un labre vert olive avec une nage rapide et une capacité à se camoufler dans les sédiments marins.
+254,lethrinus_ornatus,controlled,lethrinus_ornatus_1,2349,Lethrinus ornatus est un labre orné avec des motifs complexes sur le corps et une nageoire caudale puissante.
+255,lethrinus_rubrioperculatus,controlled,lethrinus_rubrioperculatus_10,2354,Lethrinus rubrioperculatus est un labre rouge avec une poitrine colorée et une nage rapide adaptée aux récifs coralliens.
+256,lethrinus_semicinctus,controlled,lethrinus_semicinctus_1,2367,Lethrinus semicinctus présente une coloration partiellement bandée et une nageoire dorsale épineuse, idéal pour les habitats de récif.
+257,lethrinus_variegatus,sketches,lethrinus_variegatus_1,2371,Lethrinus variegatus est un labre varié avec des motifs tachetés sur le corps et une nage rapide adaptée aux récifs coralliens.
+258,lethrinus_xanthochilus,controlled,lethrinus_xanthochilus_1,2376,Lethrinus xanthochilus est un labre jaune avec une nageoire caudale puissante et une capacité à chasser rapidement ses proies.
+259,liopropoma_mitratum,controlled,liopropoma_mitratum_1,2383,Liopropoma mitratum est un poisson de récif coloré avec une nageoire caudale en forme de lyre et une silhouette élégante.
+260,liopropoma_susumi,controlled,liopropoma_susumi_10,2390,Liopropoma susumi présente une coloration bleue vibrante et une nage rapide adaptée aux habitats coralliens.
+261,liza_subviridis,controlled,liza_subviridis_1,2399,Liza subviridis est un poisson plat avec une coloration verte et une morphologie adaptée aux sédiments marins.
+262,liza_vaigiensis,controlled,liza_vaigiensis_1,2408,Liza vaigiensis est un poisson de fond avec une nageoire caudale puissante et une coloration sombre adaptée aux habitats sableux.
+263,lniistius_aneitensis,controlled,lniistius_aneitensis_10,2414,Lniistius aneitensis est un poisson pélagique avec une silhouette allongée et une nage rapide adaptée aux eaux profondes.
+264,lniistius_pavo,controlled,lniistius_pavo_1,2428,Lniistius pavo est un poisson élégant avec une nageoire caudale en forme de lyre et une coloration vive adaptée aux habitats pélagiques.
+265,lutjanus_adetii,controlled,lutjanus_adetii_1,2437,Lutjanus adetii est un mérou de récif avec une coloration vive et une nage rapide adaptée aux habitats coralliens.
+266,lutjanus_argentimaculatus,uncontrolled,lutjanus_argentimaculatus_10,2443,Lutjanus argentimaculatus est un mérou argenté avec des taches noires sur le corps et une nageoire dorsale épineuse.
+267,lutjanus_biguttatus,insitu,lutjanus_biguttatus_10,2458,Lutjanus biguttatus présente deux grandes taches noires sur le corps et une nage rapide adaptée aux récifs coralliens.
+268,lutjanus_bohar,insitu,lutjanus_bohar_10,2469,Lutjanus bohar est un mérou de récif avec une coloration bleue vive et une nageoire caudale puissante, idéal pour les pêcheries locales.
+269,lutjanus_carponotatus,controlled,lutjanus_carponotatus_10,2491,Lutjanus carponotatus est un mérou robuste avec une nageoire pectorale large et une coloration sombre adaptée aux habitats rocheux.
+270,lutjanus_decussatus,insitu,lutjanus_decussatus_10,2506,Lutjanus decussatus présente une coloration vive avec des taches noires et une nage rapide adaptée aux récifs coralliens.
+271,lutjanus_ehrenbergii,controlled,lutjanus_ehrenbergii_1,2516,Lutjanus ehrenbergii est un mérou de récif avec une coloration bleue et des nageoires dorsales épineuses.
+272,lutjanus_erythropterus,insitu,lutjanus_erythropterus_1,2525,Lutjanus erythropterus présente des nageoires rouges distinctives et une nage rapide adaptée aux habitats coralliens.
+273,lutjanus_fulviflamma,controlled,lutjanus_fulviflamma_10,2533,Lutjanus fulviflamma est un mérou de récif avec des flammes orange sur les nageoires et une nage rapide adaptée aux récifs coralliens.
+274,lutjanus_fulvus,controlled,lutjanus_fulvus_10,2555,Lutjanus fulvus est un mérou sombre avec une nage rapide et une coloration adaptée aux habitats de récif.
+275,lutjanus_gibbus,insitu,lutjanus_gibbus_10,2574,Lutjanus gibbus présente une bosse sur le front et une nage rapide adaptée aux récifs coralliens.
+276,lutjanus_johnii,controlled,lutjanus_johnii_1,2591,Lutjanus johnii est un mérou de récif avec une coloration vive et une nage rapide adaptée aux habitats coralliens.
+277,lutjanus_kasmira,insitu,lutjanus_kasmira_10,2600,Lutjanus kasmira est un mérou de récif avec une coloration bleue et des nageoires dorsales épineuses, idéal pour les récifs coralliens.
+278,lutjanus_lemniscatus,sketches,lutjanus_lemniscatus_1,2616,Lutjanus lemniscatus est un mérou élégant avec des motifs en forme de ruban et une nageoire caudale puissante.
+279,lutjanus_lutjanus,controlled,lutjanus_lutjanus_10,2624,Lutjanus lutjanus est un mérou robuste avec une coloration vive et une nage rapide adaptée aux habitats coralliens.
+280,lutjanus_malabaricus,sketches,lutjanus_malabaricus_10,2638,Lutjanus malabaricus présente une coloration vive avec des motifs tachetés et une nageoire dorsale épineuse.
+281,lutjanus_monostigma,insitu,lutjanus_monostigma_10,2650,Lutjanus monostigma est un mérou de récif avec une seule tache distinctive sur le corps et une nage rapide adaptée aux récifs coralliens.
+282,lutjanus_quinquelineatus,insitu,lutjanus_quinquelineatus_10,2667,Lutjanus quinquelineatus présente cinq lignes noires sur le corps et une nage rapide adaptée aux habitats coralliens.
+283,lutjanus_rivulatus,controlled,lutjanus_rivulatus_10,2680,Lutjanus rivulatus est un mérou robuste avec une nage rapide et une coloration sombre adaptée aux récifs coralliens.
+284,lutjanus_russellii,controlled,lutjanus_russellii_10,2696,Lutjanus russellii est un mérou de récif avec une coloration vive et une nageoire caudale fourchue, idéal pour les pêcheries commerciales.
+285,lutjanus_sebae,insitu,lutjanus_sebae_10,2713,Lutjanus sebae présente une coloration rougeâtre avec des nageoires puissantes et une nage rapide adaptée aux récifs coralliens.
+286,lutjanus_semicinctus,controlled,lutjanus_semicinctus_1,2734,Lutjanus semicinctus est un mérou avec une moitié colorée et une moitié sombre, idéal pour les habitats coralliens.
+287,lutjanus_semicinctus_quoy,sketches,lutjanus_semicinctus_quoy_1,2739,Lutjanus semicinctus quoy présente des motifs tachetés et une nageoire caudale élégante, adapté aux récifs coralliens.
+288,lutjanus_timoriensis,controlled,lutjanus_timoriensis_1,2744,Lutjanus timoriensis est un mérou de récif avec une coloration vive et une nage rapide adaptée aux habitats coralliens.
+289,lutjanus_vitta,controlled,lutjanus_vitta_1,2748,Lutjanus vitta est un mérou de récif avec une bande noire distinctive le long du corps et une nage rapide adaptée aux récifs coralliens.
+290,macolor_macularis,insitu,macolor_macularis_10,2756,Macolor macularis est un poisson de récif avec des taches noires sur un corps coloré et une nage rapide adaptée aux habitats coralliens.
+291,macolor_niger,insitu,macolor_niger_10,2766,Macolor niger présente une coloration sombre avec des nageoires puissantes et une nage rapide adaptée aux récifs coralliens.
+292,macropharyngodon_choati,controlled,macropharyngodon_choati_1,2780,Macropharyngodon choati est un labre avec une grande bouche et des nageoires dorsales épineuses, idéal pour les habitats coralliens.
+293,macropharyngodon_kuiteri,controlled,macropharyngodon_kuiteri_10,2783,Macropharyngodon kuiteri présente une coloration vive avec des motifs tachetés et une nage rapide adaptée aux récifs coralliens.
+294,macropharyngodon_meleagris,insitu,macropharyngodon_meleagris_10,2796,Macropharyngodon meleagris est un labre coloré avec une nageoire caudale en forme de lyre et une silhouette élégante.
+295,macropharyngodon_negrosensis,controlled,macropharyngodon_negrosensis_1,2808,Macropharyngodon negrosensis est un poisson de récif robuste avec une coloration vive et une nage rapide adaptée aux récifs coralliens.
+296,macropharyngodon_ornatus,controlled,macropharyngodon_ornatus_1,2814,Macropharyngodon ornatus présente une coloration ornée avec des motifs tachetés et une nageoire caudale puissante.
+297,megalaspis_cordyla,controlled,megalaspis_cordyla_1,2821,Megalaspis cordyla est un mérou de récif avec une grande taille et une nageoire dorsale épineuse, adapté aux habitats coralliens.
+298,meuschenia_australis,insitu,meuschenia_australis_1,2827,Meuschenia australis est un labre australien avec une coloration vive et une nage rapide adaptée aux récifs coralliens.
+299,meuschenia_freycineti,insitu,meuschenia_freycineti_10,2830,Meuschenia freycineti présente une coloration discrète avec des motifs tachetés, idéal pour les habitats rocheux.
+300,meuschenia_galii,insitu,meuschenia_galii_1,2842,Meuschenia galii est un labre de récif avec une nageoire caudale puissante et une coloration adaptée aux récifs coralliens.
+301,meuschenia_hippocrepis,insitu,meuschenia_hippocrepis_1,2848,Meuschenia hippocrepis est un labre avec une morphologie distinctive et une nage rapide adaptée aux récifs coralliens.
+302,meuschenia_scaber,insitu,meuschenia_scaber_1,2852,Meuschenia scaber présente une peau rugueuse avec des motifs tachetés et une nage rapide adaptée aux habitats coralliens.
+303,meuschenia_trachylepis,controlled,meuschenia_trachylepis_1,2857,Meuschenia trachylepis est un labre robuste avec une nageoire dorsale épineuse et une coloration vive adaptée aux récifs coralliens.
+304,monacanthus_chinensis,controlled,monacanthus_chinensis_10,2860,Monacanthus chinensis, ou mante, est un poisson de récif avec une nageoire dorsale épineuse et une capacité de camouflage efficace.
+305,monotaxis_grandoculis,insitu,monotaxis_grandoculis_10,2871,Monotaxis grandoculis est un poisson de récif avec une grande œil et une nage rapide adaptée aux habitats coralliens.
+306,mugim_cephalus,controlled,mugim_cephalus_1,2893,Mugim cephalus est un poisson de récif robuste avec une coloration sombre et des nageoires puissantes.
+307,naucrates_ductor,controlled,naucrates_ductor_1,2902,Naucrates ductor, également connu sous le nom de poisson-couteau, est un poisson rapide avec une forme allongée et une nageoire caudale en forme de faucille.
+308,negaprion_acutidens,uncontrolled,negaprion_acutidens_1,2908,Negaprion acutidens est un requin-marteau avec une mâchoire pointue et une nage rapide adaptée aux environnements côtiers.
+309,nemadactylus_douglasii,insitu,nemadactylus_douglasii_1,2911,Nemadactylus douglasii est un poisson plat avec une bouche large et des nageoires pectorales développées pour fouiller le sable à la recherche de proies.
+310,nemipterus_furcosus,controlled,nemipterus_furcosus_10,2915,Nemipterus furcosus est un poisson de récif avec des nageoires dorsales épineuses et une coloration vive adaptée aux habitats coralliens.
+311,nemipterus_hexodon,controlled,nemipterus_hexodon_1,2925,Nemipterus hexodon présente six dents distinctives et une nage rapide adaptée aux environnements de récif.
+312,nemipterus_peronii,controlled,nemipterus_peronii_1,2933,Nemipterus peronii est un poisson de récif robuste avec une coloration vive et une nageoire caudale en forme de lyre.
+313,netuma_thalassina,sketches,netuma_thalassina_1,2938,Netuma thalassina est un poisson de fond avec une morphologie aplatie et une capacité de camouflage efficace dans les sédiments marins.
+314,nibea_soldado,controlled,nibea_soldado_1,2941,Nibea soldado est un mérou de récif avec une coloration vive et une nage rapide adaptée aux habitats coralliens.
+315,notolabrus_fucicola,insitu,notolabrus_fucicola_1,2945,Notolabrus fucicola est un labre de récif avec une nageoire caudale puissante et une coloration vive adaptée aux habitats coralliens.
+316,notolabrus_gymnogenis,controlled,notolabrus_gymnogenis_1,2951,Notolabrus gymnogenis présente une coloration vive avec des motifs tachetés et une nage rapide adaptée aux récifs coralliens.
+317,notolabrus_tetricus,insitu,notolabrus_tetricus_1,2954,Notolabrus tetricus est un labre avec une coloration sombre et une nage rapide adaptée aux habitats rocheux.
+318,notorynchus_cepedianus,controlled,notorynchus_cepedianus_1,2962,Notorynchus cepedianus est un requin de récif robuste avec une nage rapide et une mâchoire puissante adaptée à la chasse.
+319,novaculichthys_taeniourus,controlled,novaculichthys_taeniourus_10,2968,Novaculichthys taeniourus est un labre de récif avec des bandes colorées et une nage rapide adaptée aux habitats coralliens.
+320,novaculoides_macrolepidotus,controlled,novaculoides_macrolepidotus_10,2980,Novaculoides macrolepidotus est un poisson de récif robuste avec une grande taille et une nage rapide adaptée aux récifs coralliens.
+321,oedalechilus_labiosus,controlled,oedalechilus_labiosus_1,2990,Oedalechilus labiosus est un labre de récif avec des lèvres proéminentes et une coloration vive adaptée aux habitats coralliens.
+322,ophthalmolepis_lineolatus,controlled,ophthalmolepis_lineolatus_10,2995,Ophthalmolepis lineolatus est un poisson de récif avec des lignes longitudinales distinctes et une nage rapide adaptée aux récifs coralliens.
+323,otolithes_ruber,sketches,otolithes_ruber_1,3005,Otolithes ruber est un poisson de récif avec une coloration rouge brillante et une nage rapide adaptée aux habitats coralliens.
+324,oxycheilinus_bimaculatus,insitu,oxycheilinus_bimaculatus_10,3013,Oxycheilinus bimaculatus présente deux taches distinctes sur le corps et une nage rapide adaptée aux récifs coralliens.
+325,oxycheilinus_celebicus,controlled,oxycheilinus_celebicus_10,3030,Oxycheilinus celebicus est un labre de récif avec une coloration vive et une nage rapide adaptée aux habitats coralliens.
+326,oxycheilinus_digrammus,insitu,oxycheilinus_digrammus_1,3041,Oxycheilinus digrammus est un poisson de récif avec des nageoires pectorales développées et une coloration discrète adaptée aux habitats rocheux.
+327,oxycheilinus_unifasciatus,controlled,oxycheilinus_unifasciatus_1,3046,Oxycheilinus unifasciatus est un labre avec une seule bande colorée sur le corps et une nage rapide adaptée aux récifs coralliens.
+328,oxymonacanthus_longirostris,insitu,oxymonacanthus_longirostris_10,3054,Oxymonacanthus longirostris est un poisson de récif avec un museau long et une nage rapide adaptée aux habitats coralliens.
+329,P1ROZC-Z,insitu,P1ROZC-Z_10,3080,Description courte pour P1ROZC-Z.
+330,pagrus_auratus,insitu,pagrus_auratus_1,3097,Pagrus auratus, également connu sous le nom de dorade royale, est un poisson de récif apprécié pour sa chair délicate et sa coloration vive.
+331,paracaesio_kusakarii,controlled,paracaesio_kusakarii_1,3104,Paracaesio kusakarii est un poisson de récif avec une coloration bleue éclatante et une nage rapide adaptée aux habitats coralliens.
+332,paracheilinus_filamentosus,insitu,paracheilinus_filamentosus_1,3107,Paracheilinus filamentosus est un poisson anémone avec des filaments nasaux longs et une coloration vive adaptée aux récifs coralliens.
+333,paraluteres_prionurus,insitu,paraluteres_prionurus_10,3114,Paraluteres prionurus est un labre avec une mâchoire pointue et une nage rapide adaptée aux habitats coralliens.
+334,paramonacanthus_choirocephalus,sketches,paramonacanthus_choirocephalus_1,3133,Paramonacanthus choirocephalus est un poisson de récif avec une tête distinctive et une nage rapide adaptée aux récifs coralliens.
+335,paraplagusia_bilineata,controlled,paraplagusia_bilineata_1,3138,Paraplagusia bilineata est un labre avec deux lignes noires distinctes sur le corps et une nage rapide adaptée aux récifs coralliens.
+336,parastromateus_niger,controlled,parastromateus_niger_1,3143,Parastromateus niger est un mérou noir avec une nage rapide et une capacité de camouflage efficace dans les récifs coralliens.
+337,pardachirus_hedleyi,controlled,pardachirus_hedleyi_1,3147,Pardachirus hedleyi est un poisson plat avec une morphologie adaptée aux habitats sablonneux et une coloration discrète.
+338,pardachirus_pavoninus,controlled,pardachirus_pavoninus_1,3151,Pardachirus pavoninus est un poisson de fond avec une coloration vive et des nageoires pectorales développées pour fouiller le sable.
+339,pentapodus_aureofasciatus,controlled,pentapodus_aureofasciatus_1,3155,Pentapodus aureofasciatus est un poisson de récif avec des bandes dorées sur le corps et une nage rapide adaptée aux habitats coralliens.
+340,pentapodus_paradiseus,controlled,pentapodus_paradiseus_1,3159,Pentapodus paradiseus présente une coloration vive avec des motifs en forme de paradis et une nage rapide adaptée aux récifs coralliens.
+341,pentapodus_vitta_quoy,insitu,pentapodus_vitta_quoy_1,3163,Pentapodus vitta quoy est un poisson de récif avec une bande noire distinctive sur le corps et une nage rapide adaptée aux récifs coralliens.
+342,pervagor_alternans,controlled,pervagor_alternans_1,3169,Pervagor alternans est un poisson de récif robuste avec des nageoires dorsales épineuses et une coloration vive adaptée aux récifs coralliens.
+343,pervagor_aspricaudus,controlled,pervagor_aspricaudus_10,3172,Pervagor aspricaudus est un poisson de récif avec une queue épineuse et une nage rapide adaptée aux habitats coralliens.
+344,pervagor_janthinosoma,controlled,pervagor_janthinosoma_10,3182,Pervagor janthinosoma présente une coloration violette avec des nageoires dorsales puissantes et une nage rapide adaptée aux récifs coralliens.
+345,pervagor_melanocephalus,controlled,pervagor_melanocephalus_10,3196,Pervagor melanocephalus est un poisson de récif noir avec une nage rapide et une capacité de camouflage efficace dans les habitats coralliens.
+346,pervagor_nigrolineatus,controlled,pervagor_nigrolineatus_1,3207,Pervagor nigrolineatus présente une ligne noire distincte le long du corps et une nage rapide adaptée aux récifs coralliens.
+347,pinjalo_lewisi,controlled,pinjalo_lewisi_1,3214,Pinjalo lewisi est un poisson de récif avec une coloration vive et une nage rapide adaptée aux habitats coralliens.
+348,platycephalus_indicus,sketches,platycephalus_indicus_1,3219,Platycephalus indicus est un poisson plat avec une coloration brune et une nageoire caudale en forme de faucille, adapté aux fonds sableux.
+349,plectranthias_longimanus,controlled,plectranthias_longimanus_10,3227,Plectranthias longimanus est un poisson de récif avec de longues nageoires pectorales et une coloration vive adaptée aux habitats coralliens.
+350,plectranthias_nanus,controlled,plectranthias_nanus_10,3240,Plectranthias nanus est un petit poisson de récif avec une coloration vive et une nage rapide adaptée aux habitats coralliens.
+351,plectranthias_winniensis,controlled,plectranthias_winniensis_1,3250,Plectranthias winniensis est un poisson de récif avec une coloration vive et des nageoires pectorales développées, idéal pour les récifs coralliens.
+352,plectropomus_areolatus,controlled,plectropomus_areolatus_1,3259,Plectropomus areolatus, ou mérou à points, est reconnu pour ses taches noires distinctes et sa nage rapide adaptée aux habitats coralliens.
+353,plectropomus_laevis,sketches,plectropomus_laevis_10,3267,Plectropomus laevis est un mérou élégant avec une peau lisse et des nageoires caudales puissantes, adapté aux récifs coralliens.
+354,plectropomus_leopardus,sketches,plectropomus_leopardus_10,3282,Plectropomus leopardus, ou mérou léopard, est célèbre pour ses motifs tachetés et sa nage rapide adaptée aux habitats coralliens.
+355,plectropomus_maculatus,insitu,plectropomus_maculatus_1,3295,Plectropomus maculatus présente des taches noires sur un corps coloré et une nage rapide adaptée aux récifs coralliens.
+356,plectropomus_oligacanthus,insitu,plectropomus_oligacanthus_1,3302,Plectropomus oligacanthus est un mérou de récif avec une nage rapide et une coloration vive adaptée aux habitats coralliens.
+357,plotosus_lineatus,controlled,plotosus_lineatus_10,3309,Plotosus lineatus est un poisson serpent avec une morphologie allongée et des nageoires puissantes adaptées aux habitats de récif.
+358,PQV7DP-S,controlled,PQV7DP-S_1,3319,Description courte pour PQV7DP-S.
+359,pristipomoides_argyrogrammicus,controlled,pristipomoides_argyrogrammicus_1,3326,Pristipomoides argyrogrammicus est un poisson de récif avec des motifs argentés et une nage rapide adaptée aux habitats coralliens.
+360,pristipomoides_auricilla,sketches,pristipomoides_auricilla_1,3330,Pristipomoides auricilla est un poisson de récif avec des nageoires auriculaires développées et une coloration vive.
+361,pristipomoides_filamentosus,controlled,pristipomoides_filamentosus_10,3339,Pristipomoides filamentosus présente des nageoires filamenteuses et une coloration vive, adapté aux récifs coralliens.
+362,pristipomoides_flavipinnis,controlled,pristipomoides_flavipinnis_1,3349,Pristipomoides flavipinnis est un poisson de récif avec des nageoires jaunes brillantes et une nage rapide adaptée aux habitats coralliens.
+363,pristipomoides_sieboldii,controlled,pristipomoides_sieboldii_1,3352,Pristipomoides sieboldii présente une coloration vive avec des motifs tachetés et une nage rapide adaptée aux récifs coralliens.
+364,pristipomoides_zonatus,controlled,pristipomoides_zonatus_1,3359,Pristipomoides zonatus est un poisson de récif avec des zones colorées distinctes sur le corps et une nage rapide adaptée aux habitats coralliens.
+365,promethichthys_prometheus,controlled,promethichthys_prometheus_1,3363,Promethichthys prometheus est un mérou de récif robuste avec une coloration sombre et une nage rapide adaptée aux habitats coralliens.
+366,protonibea_diacanthus,sketches,protonibea_diacanthus_1,3370,Protonibea diacanthus est un mérou de récif avec des épines dorsales proéminentes et une nage rapide adaptée aux récifs coralliens.
+367,psettodes_erumei,controlled,psettodes_erumei_1,3374,Psettodes erumei est un poisson de récif robuste avec une nage rapide et une coloration vive adaptée aux habitats coralliens.
+368,pseudalutarius_nasicornis,controlled,pseudalutarius_nasicornis_10,3378,Pseudalutarius nasicornis est un poisson de récif avec un museau distinctif et une nage rapide adaptée aux récifs coralliens.
+369,pseudanthias_bicolor,controlled,pseudanthias_bicolor_10,3390,Pseudanthias bicolor est un poisson de récif coloré avec deux couleurs distinctes sur le corps et une nage rapide adaptée aux récifs coralliens.
+370,pseudanthias_cooperi,insitu,pseudanthias_cooperi_10,3402,Pseudanthias cooperi est un poisson de récif avec une coloration vive et des nageoires pectorales développées, idéal pour les habitats coralliens.
+371,pseudanthias_dispar,controlled,pseudanthias_dispar_10,3415,Pseudanthias dispar présente une coloration vive avec des motifs tachetés et une nage rapide adaptée aux récifs coralliens.
+372,pseudanthias_fasciatus,controlled,pseudanthias_fasciatus_1,3429,Pseudanthias fasciatus est un poisson de récif avec des bandes colorées sur le corps et une nage rapide adaptée aux habitats coralliens.
+373,pseudanthias_huchtii,controlled,pseudanthias_huchtii_1,3435,Pseudanthias huchtii est un poisson de récif élégant avec une coloration vive et des nageoires pectorales développées.
+374,pseudanthias_hypselosoma,controlled,pseudanthias_hypselosoma_10,3438,Pseudanthias hypselosoma présente une nage rapide et une coloration vive adaptée aux récifs coralliens.
+375,pseudanthias_lori,controlled,pseudanthias_lori_1,3455,Pseudanthias lori est un poisson de récif avec une coloration bleue vibrante et une nage rapide adaptée aux habitats coralliens.
+376,pseudanthias_luzonensis,controlled,pseudanthias_luzonensis_1,3463,Pseudanthias luzonensis est un poisson de récif coloré avec une nage rapide et une capacité de camouflage efficace dans les récifs coralliens.
+377,pseudanthias_pictilis,controlled,pseudanthias_pictilis_10,3469,Pseudanthias pictilis est un poisson de récif avec des motifs colorés sur le corps et une nage rapide adaptée aux habitats coralliens.
+378,pseudanthias_pleurotaenia,insitu,pseudanthias_pleurotaenia_10,3480,Pseudanthias pleurotaenia présente une ligne latérale colorée et une nage rapide adaptée aux récifs coralliens.
+379,pseudanthias_rubrizonatus,controlled,pseudanthias_rubrizonatus_10,3491,Pseudanthias rubrizonatus est un poisson de récif avec une coloration rougeâtre sur le corps et une nage rapide adaptée aux habitats coralliens.
+380,pseudanthias_sheni,controlled,pseudanthias_sheni_10,3501,Pseudanthias sheni présente une coloration vive avec des motifs tachetés et une nage rapide adaptée aux récifs coralliens.
+381,pseudanthias_smithvanizi,insitu,pseudanthias_smithvanizi_1,3515,Pseudanthias smithvanizi est un poisson de récif coloré avec une nage rapide et des nageoires pectorales développées, idéal pour les habitats coralliens.
+382,pseudanthias_squamipinnis,insitu,pseudanthias_squamipinnis_10,3523,Pseudanthias squamipinnis est un poisson de récif avec des nageoires écailleuses et une coloration vive adaptée aux récifs coralliens.
+383,pseudanthias_tuka,insitu,pseudanthias_tuka_10,3546,Pseudanthias tuka est un poisson de récif coloré avec des motifs tachetés et une nage rapide adaptée aux habitats coralliens.
+384,pseudanthias_ventralis,controlled,pseudanthias_ventralis_10,3560,Pseudanthias ventralis présente une coloration vive avec une nage rapide et une nageoire caudale en forme de lyre, idéal pour les récifs coralliens.
+385,pseudocaranx_dentex,insitu,pseudocaranx_dentex_10,3577,Pseudocaranx dentex est un poisson de récif robuste avec une mâchoire puissante et une nage rapide adaptée aux habitats coralliens.
+386,pseudocarcharias_kamoharai,controlled,pseudocarcharias_kamoharai_1,3588,Pseudocarcharias kamoharai est un requin de récif avec une nage rapide et une coloration sombre adaptée aux habitats coralliens.
+387,pseudocheilinus_evanidus,controlled,pseudocheilinus_evanidus_10,3592,Pseudocheilinus evanidus est un labre de récif avec une coloration vive et des nageoires pectorales développées, idéal pour les récifs coralliens.
+388,pseudocheilinus_hexataenia,insitu,pseudocheilinus_hexataenia_10,3603,Pseudocheilinus hexataenia présente six rayures noires sur le corps et une nage rapide adaptée aux habitats coralliens.
+389,pseudocheilinus_ocellatus,controlled,pseudocheilinus_ocellatus_1,3619,Pseudocheilinus ocellatus est un labre de récif avec des yeux factices sur les nageoires et une nage rapide adaptée aux récifs coralliens.
+390,pseudocheilinus_octotaenia,controlled,pseudocheilinus_octotaenia_10,3625,Pseudocheilinus octotaenia se distingue par ses huit rayures noires sur le corps et une nage rapide adaptée aux habitats coralliens.
+391,pseudodax_moluccanus,insitu,pseudodax_moluccanus_10,3638,Pseudodax moluccanus est un poisson de récif avec une coloration vive et une nage rapide adaptée aux habitats coralliens.
+392,pseudojuloides_cerasinus,controlled,pseudojuloides_cerasinus_1,3655,Pseudojuloides cerasinus est un labre de récif avec une coloration vive et des nageoires pectorales développées, idéal pour les récifs coralliens.
+393,pseudolabrus_biserialis,insitu,pseudolabrus_biserialis_1,3662,Pseudolabrus biserialis présente une coloration vive avec deux lignes noires distinctes sur le corps et une nage rapide adaptée aux récifs coralliens.
+394,pseudolabrus_guentheri,insitu,pseudolabrus_guentheri_10,3665,Pseudolabrus guentheri est un labre coloré avec des nageoires pectorales développées et une nage rapide adaptée aux habitats coralliens.
+395,pseudolabrus_luculentus,insitu,pseudolabrus_luculentus_10,3675,Pseudolabrus luculentus est un labre de récif avec une coloration vive et une nage rapide adaptée aux récifs coralliens.
+396,pseudorhombus_argus,controlled,pseudorhombus_argus_1,3687,Pseudorhombus argus est un poisson plat avec des motifs en forme d'yeux sur le corps et une nage rapide adaptée aux sédiments marins.
+397,pseudorhombus_arsius,controlled,pseudorhombus_arsius_1,3693,Pseudorhombus arsius présente une morphologie aplatie avec des yeux sur un côté du corps et une nage rapide adaptée aux habitats sableux.
+398,pseudorhombus_elevatus,controlled,pseudorhombus_elevatus_1,3700,Pseudorhombus elevatus est un poisson plat avec une silhouette élancée et une coloration adaptée aux fonds sableux.
+399,pteragogus_cryptus,controlled,pteragogus_cryptus_10,3703,Pteragogus cryptus est un poisson de récif avec une coloration discrète et une nage rapide adaptée aux habitats coralliens.
+400,pteragogus_enneacanthus,controlled,pteragogus_enneacanthus_1,3713,Pteragogus enneacanthus est un poisson de récif robuste avec neuf épines dorsales et une nage rapide adaptée aux récifs coralliens.
+401,pteragogus_flagellifer,controlled,pteragogus_flagellifer_1,3721,Pteragogus flagellifer est un poisson de récif avec une nageoire caudale en forme de lyre et une coloration vive adaptée aux récifs coralliens.
+402,rastrelliger_kanagurta,sketches,rastrelliger_kanagurta_1,3726,Rastrelliger kanagurta, ou hareng de l'Indo-Pacifique, est un poisson pélagique connu pour sa nage rapide et sa chair savoureuse.
+403,retropinna_semoni,insitu,retropinna_semoni_1,3734,Retropinna semoni est un poisson de fond avec une coloration discrète et une nage rapide adaptée aux habitats sableux.
+404,rhabdosargus_sarba,insitu,rhabdosargus_sarba_1,3739,Rhabdosargus sarba est un labre de récif avec une nage rapide et une coloration vive adaptée aux habitats coralliens.
+405,rhincodon_typus,sketches,rhincodon_typus_1,3747,Rhincodon typus, ou requin baleine, est le plus grand poisson du monde, connu pour sa taille imposante et son alimentation à base de plancton.
+406,rhizoprionodon_acutus,uncontrolled,rhizoprionodon_acutus_1,3751,Rhizoprionodon acutus est un petit requin avec une nage rapide et une mâchoire puissante, adapté aux habitats côtiers.
+407,ruvettus_pretiosus,uncontrolled,ruvettus_pretiosus_1,3757,Ruvettus pretiosus est un requin de récif avec une coloration discrète et une nage rapide adaptée aux habitats coralliens.
+408,samaris_cristatus,controlled,samaris_cristatus_1,3764,Samaris cristatus est un poisson de récif avec une crête distinctive sur la tête et une nage rapide adaptée aux récifs coralliens.
+409,samariscus_triocellatus,controlled,samariscus_triocellatus_1,3767,Samariscus triocellatus est un poisson de récif coloré avec trois yeux factices sur le corps et une nage rapide adaptée aux habitats coralliens.
+410,sarda_orientalis,uncontrolled,sarda_orientalis_1,3770,Sarda orientalis, ou thon d'Orient, est un thon rapide avec une coloration bleue et une nageoire caudale en forme de faucille.
+411,sardinella_albella,controlled,sardinella_albella_1,3777,Sardinella albella est un petit poisson de fond avec une coloration argentée et une nage rapide adaptée aux habitats sableux.
+412,sardinella_gibbosa,controlled,sardinella_gibbosa_1,3780,Sardinella gibbosa présente une grande bosse sur le dos et une coloration vive adaptée aux récifs coralliens.
+413,sardinops_sagax,sketches,sardinops_sagax_1,3784,Sardinops sagax, ou sardine australienne, est un poisson pélagique connu pour sa nage rapide et sa chair savoureuse, souvent utilisé dans les pêcheries commerciales.
+414,scaevius_milii,controlled,scaevius_milii_1,3793,Scaevius milii est un poisson de récif avec une nage rapide et une coloration discrète adaptée aux habitats rocheux.
+415,scolopsis_affinis,controlled,scolopsis_affinis_10,3802,Scolopsis affinis est un labre de récif avec une coloration vive et des nageoires dorsales épineuses, idéal pour les récifs coralliens.
+416,scolopsis_bilineata,insitu,scolopsis_bilineata_10,3815,Scolopsis bilineata présente deux lignes distinctes sur le corps et une nage rapide adaptée aux habitats coralliens.
+417,scolopsis_lineata,controlled,scolopsis_lineata_1,3830,Scolopsis lineata est un labre avec une ligne horizontale unique sur le corps et une nage rapide adaptée aux récifs coralliens.
+418,scolopsis_margaritifer,insitu,scolopsis_margaritifer_1,3835,Scolopsis margaritifer est un labre de récif avec des taches perlées sur le corps et une nage rapide adaptée aux récifs coralliens.
+419,scolopsis_monogramma,controlled,scolopsis_monogramma_10,3839,Scolopsis monogramma présente une seule marque distinctive sur le corps et une nage rapide adaptée aux habitats coralliens.
+420,scolopsis_trilineata,controlled,scolopsis_trilineata_1,3852,Scolopsis trilineata est un labre de récif avec trois lignes distinctes sur le corps et une nage rapide adaptée aux récifs coralliens.
+421,scolopsis_vosmeri,controlled,scolopsis_vosmeri_10,3857,Scolopsis vosmeri est un poisson de récif avec une coloration vive et une nage rapide adaptée aux habitats coralliens.
+422,scolopsis_xenochrous,controlled,scolopsis_xenochrous_1,3868,Scolopsis xenochrous est un labre de récif robuste avec une coloration sombre et des nageoires puissantes adaptées aux récifs coralliens.
+423,scomberoides_commersonnianus,uncontrolled,scomberoides_commersonnianus_1,3873,Scomberoides commersonnianus est un poisson de récif avec une nage rapide et une coloration vive adaptée aux habitats coralliens.
+424,scomberoides_lysan,controlled,scomberoides_lysan_1,3880,Scomberoides lysan présente une coloration vive avec des nageoires pectorales développées et une nage rapide adaptée aux récifs coralliens.
+425,scomberomorus_commerson,uncontrolled,scomberomorus_commerson_10,3888,Scomberomorus commerson, ou thon de Commerson, est un thon rapide avec une coloration bleue et une nageoire caudale en forme de faucille.
+426,selar_crumenophthalmus,controlled,selar_crumenophthalmus_1,3898,Selar crumenophthalmus est un poisson de fond avec une grande bouche et une nage rapide adaptée aux habitats sableux.
+427,selaroides_leptolepis,sketches,selaroides_leptolepis_1,3907,Selaroides leptolepis est un poisson de récif avec une nage rapide et une coloration discrète adaptée aux habitats rocheux.
+428,seriola_dumerili,insitu,seriola_dumerili_1,3912,Seriola dumerili, ou thon jaune, est un poisson pélagique connu pour sa nage rapide et sa chair savoureuse, souvent utilisé dans les pêcheries commerciales.
+429,seriola_hippos,insitu,seriola_hippos_1,3919,Seriola hippos est un thon robuste avec une coloration bleu-vert et une nage rapide adaptée aux habitats pélagiques.
+430,seriola_rivoliana,sketches,seriola_rivoliana_10,3923,Seriola rivoliana est un thon de récif avec une nage rapide et une coloration vive adaptée aux récifs coralliens.
+431,seriolina_nigrofasciata,insitu,seriolina_nigrofasciata_1,3934,Seriolina nigrofasciata est un poisson de récif avec des bandes noires distinctes et une nage rapide adaptée aux habitats coralliens.
+432,serranocirrhitus_latus,controlled,serranocirrhitus_latus_1,3941,Serranocirrhitus latus est un mérou de récif avec une grande taille et une nage rapide adaptée aux récifs coralliens.
+433,sillago_ciliata,insitu,sillago_ciliata_1,3949,Sillago ciliata est un poisson plat avec des nageoires pectorales fines et une coloration adaptée aux habitats sableux.
+434,sillago_sihama,sketches,sillago_sihama_10,3953,Sillago sihama présente une nage rapide et une coloration discrète adaptée aux habitats sableux.
+435,soleichthys_heterorhinos,controlled,soleichthys_heterorhinos_1,3965,Soleichthys heterorhinos est un poisson plat avec une nageoire dorsale épineuse et une coloration adaptée aux sédiments marins.
+436,sphyraena_barracuda,controlled,sphyraena_barracuda_1,3969,Sphyraena barracuda, ou barracuda, est un poisson rapide avec une morphologie allongée et une mâchoire puissante adaptée à la chasse.
+437,sphyraena_forsteri,controlled,sphyraena_forsteri_10,3978,Sphyraena forsteri est une barracuda géante avec une nage rapide et une capacité à chasser efficacement dans les habitats coralliens.
+438,sphyraena_jello,controlled,sphyraena_jello_1,3988,Sphyraena jello est une barracuda élégante avec une coloration vive et une nage rapide adaptée aux récifs coralliens.
+439,sphyraena_obtusata,insitu,sphyraena_obtusata_10,3997,Sphyraena obtusata est une barracuda avec une tête large et une nage rapide adaptée aux habitats pélagiques.
+440,stegostoma_fasciatum,insitu,stegostoma_fasciatum_1,4008,Stegostoma fasciatum est un poisson de récif avec des taches distinctives sur le corps et une nage rapide adaptée aux habitats coralliens.
+441,stethojulis_bandanensis,controlled,stethojulis_bandanensis_10,4014,Stethojulis bandanensis est un labre de récif avec une coloration vive et des nageoires pectorales développées, idéal pour les récifs coralliens.
+442,stethojulis_interrupta,controlled,stethojulis_interrupta_10,4033,Stethojulis interrupta présente des interruptions dans les motifs colorés du corps et une nage rapide adaptée aux habitats coralliens.
+443,stethojulis_strigiventer,controlled,stethojulis_strigiventer_10,4055,Stethojulis strigiventer est un labre de récif avec une nage rapide et une coloration vive adaptée aux récifs coralliens.
+444,stethojulis_trilineata,controlled,stethojulis_trilineata_10,4068,Stethojulis trilineata présente trois lignes distinctes sur le corps et une nage rapide adaptée aux habitats coralliens.
+445,stolephorus_waitei,sketches,stolephorus_waitei_2,4078,Stolephorus waitei est un poisson de récif avec une silhouette allongée et une nage rapide adaptée aux habitats sableux.
+446,suezichthys_arquatus,insitu,suezichthys_arquatus_1,4081,Suezichthys arquatus est un labre de récif avec une nage rapide et une coloration discrète adaptée aux habitats sableux.
+447,suezichthys_cyanolaemus,insitu,suezichthys_cyanolaemus_1,4087,Suezichthys cyanolaemus présente une coloration bleue sur les nageoires et une nage rapide adaptée aux récifs coralliens.
+448,suezichthys_gracilis,controlled,suezichthys_gracilis_10,4091,Suezichthys gracilis est un labre de récif avec une silhouette élancée et une nage rapide adaptée aux habitats coralliens.
+449,symphorichthys_spilurus,insitu,symphorichthys_spilurus_1,4101,Symphorichthys spilurus est un labre coloré avec des nageoires pectorales développées et une nage rapide adaptée aux récifs coralliens.
+450,symphorus_nematophorus,insitu,symphorus_nematophorus_1,4108,Symphorus nematophorus est un labre de récif avec des nageoires filamenteuses et une coloration vive adaptée aux habitats coralliens.
+451,thalassoma_amblycephalum,controlled,thalassoma_amblycephalum_10,4112,Thalassoma amblycephalum est un labre de récif avec une tête large et une nage rapide adaptée aux habitats coralliens.
+452,thalassoma_hardwicke,insitu,thalassoma_hardwicke_10,4130,Thalassoma hardwicke présente une coloration vive avec des motifs tachetés et une nage rapide adaptée aux récifs coralliens.
+453,thalassoma_jansenii,insitu,thalassoma_jansenii_10,4143,Thalassoma jansenii est un labre de récif avec une nage rapide et une coloration vive adaptée aux habitats coralliens.
+454,thalassoma_lunare,insitu,thalassoma_lunare_10,4154,Thalassoma lunare présente une coloration lunaire unique et une nage rapide adaptée aux récifs coralliens.
+455,thalassoma_lutescens,controlled,thalassoma_lutescens_10,4176,Thalassoma lutescens est un labre de récif avec une coloration jaune vif et une nage rapide adaptée aux récifs coralliens.
+456,thalassoma_nigrofasciatum,insitu,thalassoma_nigrofasciatum_1,4197,Thalassoma nigrofasciatum est un labre avec des bandes noires sur le corps et une nage rapide adaptée aux habitats coralliens.
+457,thalassoma_purpureum,insitu,thalassoma_purpureum_10,4204,Thalassoma purpureum présente une coloration violette vive et une nage rapide adaptée aux récifs coralliens.
+458,thalassoma_quinquevittatum,insitu,thalassoma_quinquevittatum_10,4221,Thalassoma quinquevittatum est un labre avec cinq bandes colorées sur le corps et une nage rapide adaptée aux récifs coralliens.
+459,thalassoma_trilobatum,controlled,thalassoma_trilobatum_10,4231,Thalassoma trilobatum se distingue par ses trois lobes sur les nageoires et une coloration vive adaptée aux récifs coralliens.
+460,thryssa_baelama,controlled,thryssa_baelama_1,4242,Thryssa baelama est un poisson de récif avec une nage rapide et une coloration discrète adaptée aux habitats sableux.
+461,thryssa_hamiltonii,controlled,thryssa_hamiltonii_1,4249,Thryssa hamiltonii présente une nage rapide et une coloration vive adaptée aux récifs coralliens.
+462,thunnus_alalunga,uncontrolled,thunnus_alalunga_1,4254,Thunnus alalunga, ou thon alalunga, est un thon rapide avec une coloration bleue et une nageoire caudale en forme de faucille.
+463,thunnus_albacares,sketches,thunnus_albacares_1,4258,Thunnus albacares, ou thon jaune, est un thon apprécié pour sa viande riche en protéines et sa nage rapide adaptée aux eaux tropicales.
+464,thysanophrys_celebica,controlled,thysanophrys_celebica_1,4264,Thysanophrys celebica est un poisson plat avec une tête allongée et des nageoires puissantes adaptées aux habitats sableux.
+465,thysanophrys_chiltonae,controlled,thysanophrys_chiltonae_1,4268,Thysanophrys chiltonae présente une nage rapide et une coloration discrète adaptée aux habitats sableux.
+466,trachichthys_australis,sketches,trachichthys_australis_1,4273,Trachichthys australis est un poisson de récif avec une nage rapide et une coloration vive adaptée aux habitats coralliens.
+467,trachinotus_baillonii,controlled,trachinotus_baillonii_1,4279,Trachinotus baillonii est un thon rapide avec une coloration bleue et une nageoire caudale en forme de faucille, adapté aux récifs coralliens.
+468,trachinotus_blochii,controlled,trachinotus_blochii_10,4288,Trachinotus blochii présente une coloration vive avec des nageoires pectorales développées et une nage rapide adaptée aux récifs coralliens.
+469,trachinotus_botla,sketches,trachinotus_botla_1,4300,Trachinotus botla est un thon de récif avec une nage rapide et une coloration vive adaptée aux habitats coralliens.
+470,trachypoma_macracanthus,insitu,trachypoma_macracanthus_1,4304,Trachypoma macracanthus est un poisson de récif robuste avec de grandes épines dorsales et une nage rapide adaptée aux récifs coralliens.
+471,triaenodon_obesus,insitu,triaenodon_obesus_1,4310,Triaenodon obesus, ou thon noir, est un poisson de récif avec une coloration sombre et une nage rapide adaptée aux habitats coralliens.
+472,uraspis_secunda,sketches,uraspis_secunda_1,4319,Uraspis secundaria est un poisson de récif avec une coloration discrète et une nage rapide adaptée aux habitats sableux.
+473,valamugil_cunnesius,sketches,valamugil_cunnesius_1,4323,Valamugil cunnesius est un poisson plat avec une nage rapide et une coloration vive adaptée aux habitats sableux.
+474,valamugil_engeli,controlled,valamugil_engeli_1,4327,Valamugil engeli est un poisson de fond robuste avec une nage rapide et une coloration discrète adaptée aux habitats sableux.
+475,valamugil_seheli,controlled,valamugil_seheli_1,4332,Valamugil seheli présente une nage rapide et une coloration discrète adaptée aux habitats sableux.
+476,variola_albimarginata,insitu,variola_albimarginata_10,4336,Variola albimarginata est un mérou de récif avec des marges blanches sur les nageoires et une nage rapide adaptée aux récifs coralliens.
+477,variola_louti,insitu,variola_louti_10,4354,Variola louti est un mérou de récif robuste avec une coloration sombre et une nage rapide adaptée aux habitats coralliens.
+478,wattsia_mossambica,controlled,wattsia_mossambica_1,4370,Wattsia mossambica est un mérou de récif avec une coloration vive et des nageoires dorsales épineuses, idéal pour les récifs coralliens.
+479,wetmorella_albofasciata,controlled,wetmorella_albofasciata_1,4375,Wetmorella albofasciata est un poisson de récif avec une seule bande blanche sur le corps et une nage rapide adaptée aux récifs coralliens.
+480,xiphocheilus_typus,controlled,xiphocheilus_typus_1,4392,Xiphocheilus typus est un labre de récif avec une nage rapide et une coloration vive adaptée aux habitats coralliens.
+481,zenarchopterus_dispar,sketches,zenarchopterus_dispar_1,4401,Zenarchopterus dispar est un poisson volant avec une nage rapide et une capacité à sauter hors de l'eau, adapté aux habitats côtiers.
+482,zeus_faber,uncontrolled,zeus_faber_1,4404,Zeus faber, ou poisson-chat des récifs, est connu pour sa moustache distinctive et sa nage rapide adaptée aux habitats rocheux.
+483,zeus_faber,uncontrolled,zeus_faber_1,4404,Zeus faber, ou poisson-chat des récifs, est connu pour sa moustache distinctive et sa nage rapide adaptée aux habitats rocheux.
+
+
